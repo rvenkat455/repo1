@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E273-3D94
+
+ Directory of C:\Users\hp\Desktop\GitProject
+
+08-Jan-18  04:40 PM    <DIR>          .
+08-Jan-18  04:40 PM    <DIR>          ..
+08-Jan-18  04:40 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  64,592,850,944 bytes free
